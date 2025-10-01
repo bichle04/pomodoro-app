@@ -2,9 +2,13 @@
 
 Một ứng dụng Pomodoro Timer hiện đại được xây dựng với React và Next.js, giúp quản lý thời gian làm việc hiệu quả theo phương pháp Pomodoro Technique.
 
-## ✨ Tính năng chính
+## Screenshots
 
-- **Timer Pomodoro** - Đến ngược thời gian làm việc và nghỉ ngơi
+![Pomodoro Timer UI](./screenshots/UI.png)
+
+## Tính năng chính
+
+- **Timer Pomodoro** - Đếm ngược thời gian làm việc và nghỉ ngơi
 - **Thông báo** - Nhắc nhở khi hết thời gian với âm thanh và thông báo hệ thống
 - **Theo dõi thống kê** - Thống kê số phiên làm việc theo ngày và tổng cộng
 - **Lịch sử phiên làm việc** - Xem lại các phiên làm việc đã hoàn thành
@@ -66,7 +70,7 @@ npm run build
 npm start
 ```
 
-## 🚀 Cách sử dụng
+## Cách sử dụng
 
 1. **Bắt đầu timer** - Nhấn nút Start để bắt đầu phiên làm việc
 2. **Tạm dừng/Tiếp tục** - Nhấn nút Pause để tạm dừng, Play để tiếp tục
@@ -75,7 +79,7 @@ npm start
 5. **Cài đặt** - Tùy chỉnh thời gian làm việc và nghỉ ngơi
 6. **Lịch sử** - Xem các phiên làm việc đã hoàn thành
 
-## 📁 Cấu trúc dự án
+## Cấu trúc dự án
 
 ```
 pomodoro-app/
